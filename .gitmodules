@@ -1,0 +1,6 @@
+[submodule "MessengerAppFront"]
+	path = MessengerAppFront
+	url = https://github.com/mohamedsennia/yapperFrontEnd
+[submodule "MessengerAppp"]
+	path = MessengerAppp
+	url = https://github.com/mohamedsennia/yapperBackend
